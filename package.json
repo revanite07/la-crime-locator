@@ -1,0 +1,26 @@
+{
+  "name": "project-1",
+  "version": "1.0.0",
+  "description": "crime locator",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CalumR23/Project-1.git"
+  },
+  "author": "Kelan Moffatt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CalumR23/Project-1/issues"
+  },
+  "homepage": "https://github.com/CalumR23/Project-1#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "morgan": "^1.9.1",
+    "path": "^0.12.7",
+    "routes": "^2.1.0"
+  }
+}

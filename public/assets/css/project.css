@@ -1,0 +1,78 @@
+body,.crimeChoose, .datepicker-day-button, button, input, optgroup, select, textarea {
+    font-family: 'Chakra Petch', sans-serif;
+    font-family: 'Rock Salt', cursive;
+    font-family: 'Black Ops One', cursive;
+    background-color: rgb(216, 215, 215);
+}
+
+#header, .page-footer, .datepicker-date-display {
+    background-color: rgb(22, 22, 155);
+   
+}
+
+.dropdown-content li>span {
+    font-size: 16px;
+    color: rgb(22, 22, 155);
+    display: block;
+    line-height: 22px;
+    padding: 14px 16px;
+}
+
+h1 {
+    font-size: 35px;
+    float: left;
+    color: yellow;
+}
+
+img {
+    float: right;
+}
+
+h2 {
+    color: yellow;
+    font-size: 20px;
+    float: left;
+    margin-left: 1%;
+    margin-top: -1%;
+}
+
+.dessert {
+ border-radius: 50%;
+ float:left;
+}
+
+#sheriff {
+border-radius: 50%;
+margin-bottom: 2%;
+}
+
+#map {
+    height: 340px;
+}
+
+#stats {
+    background-color: rgb(22, 22, 155);
+    color: white;
+}
+
+#search-counter {
+    background-color: rgb(22, 22, 155);
+}
+
+#userInput {
+    margin-left: 1%;
+    background-color: rgb(22, 22, 155);
+}
+
+.btn-flat,.datepicker-table td.is-today, button, input, optgroup, select, textarea {
+    color: rgb(22, 22, 155);
+}
+
+.select-wrapper input.select-dropdown:focus {
+    border-bottom: 1px solid rgb(22, 22, 155);;
+}
+.databaseEntries {
+    border: 1px solid white;
+    margin-bottom: 5px;
+}
+
